@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "trouve",
+    "description": "This project is really great.",
+    "slug": "trouve",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "mobee.trouve",
+      "icon": "https://png2.kisspng.com/sh/caa23818c23742b63b472d3c3befb46c/L0KzQYm3VME1N6Z9j5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgNwa5pmhJ92ZXTscX7wkPhwdpYyi9DqcHPrccW0VfFlOZZmeqdsNEDlc4O1UsQ6O2Y7Sas6NUK2R4G9VcQ6QGE4RuJ3Zx==/kisspng-computer-icons-social-media-iphone-snapchat-5ad1eab5c40bc2.249356191523706549803.png"
+    },
+    "android": {
+      "package": "mobee.trouve",
+      "icon": "https://png2.kisspng.com/sh/caa23818c23742b63b472d3c3befb46c/L0KzQYm3VME1N6Z9j5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgNwa5pmhJ92ZXTscX7wkPhwdpYyi9DqcHPrccW0VfFlOZZmeqdsNEDlc4O1UsQ6O2Y7Sas6NUK2R4G9VcQ6QGE4RuJ3Zx==/kisspng-computer-icons-social-media-iphone-snapchat-5ad1eab5c40bc2.249356191523706549803.png"
+    }
+  },
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain"
+  }
+}
